@@ -1,9 +1,11 @@
 body{
     background-color:
-    darkgoldenrod
+    #b8860b
 }
-hgroup{
-    color: aquamarine;
+h1{
+    color: crimson;
+    text-align: center;
+
 }
 nav{
 height: 6000px;
@@ -12,18 +14,18 @@ float: left;
 padding: 5px;
 line-height: 30px;
 }
-p{
+h2{
     color: crimson;
-    text-align: center;
+    text-align:left;
     margin-right: 200px;
 }
-hgroup{
+footer{
     text-align: center;
     margin-right: 200px;
 }
 #memeimage{
 margin-right: 200px;
 }
-hgroup{
+{
     text-align: center;
 }
